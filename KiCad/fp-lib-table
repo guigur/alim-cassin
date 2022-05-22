@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Socket_Arduino_Uno")(type "KiCad")(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name "cassin_pwr")(type "KiCad")(uri "/Users/guigur/Documents/github/kicad_lib/cassin_pwr.pretty")(options "")(descr ""))
+)
